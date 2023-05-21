@@ -6,8 +6,8 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
 
 public class Main {
 
-    private final static String TOKEN_KEY = "tg_token";
-    private final static  String BASE_GAME_URL_KEY = "game_url";
+    private final static String TOKEN_KEY = "TOKEN_KEY";
+    private final static  String BASE_GAME_URL_KEY = "BASE_GAME_URL_KEY";
 
     public static void main(String[] args) {
 
